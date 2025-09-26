@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+#trending_items a{
+    padding-left: 6px;
+    padding-right: 18px;
+    font-size: 19px;
+    font-style: normal;
+}
+.items{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2%;
+}
+img{
+      width: 239px;
+      border-radius: 25px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 4%;
+    margin-top: 4%;
+}
+h2{
+    text-align: center;
+    font-style: normal;
+    font-weight: 100;
+}
+p{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 22px;
+    
+}
+a{
+    cursor: pointer;
+}
+.line h1{
+   background-color: #7fad39;
+    height: 4px;
+    width: 71px;
+    margin-left: 48%;
+}
+
+

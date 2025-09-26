@@ -1,0 +1,47 @@
+*{
+    text-decoration: none;
+}
+.navbar{
+    background-color: aqua;
+    display: flex;
+    
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 20%;
+    
+    line-height: 32px;
+   
+}
+.login{
+    margin-left: 14%;
+}
+button{
+    width: 88px;
+    border-radius: 20px;
+}
+.items a:hover{
+    color: blue;
+
+}
+.items{
+    margin-left: 25%;
+}
+.name{
+    font-size: 44px;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 6%;
+    font-style: italic;
+}
+.items a:active{
+    color: black;
+}
+img{
+    width: 227px;
+    height: 58px;
+    padding-left: 29px;
+    margin-left: 5px;
+}

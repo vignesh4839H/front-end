@@ -1,0 +1,23 @@
+.registration{
+    background-image: url(https://cdn.magicdecor.in/com/2023/10/20174720/Anime-Scenery-Wallpaper-for-Walls-710x488.jpg);
+    height: 400px;
+    width: 500px;
+    margin-left: 33%;
+    margin-top: 5%;
+
+}
+button{
+       background-color: orange;
+    height: 30px;
+    width: 65px;
+    margin-top: 21px;
+    border-radius: 10px;
+}
+a{
+        margin-left: 73%;
+    background-color: red;
+
+}
+label{
+    color: white;
+}

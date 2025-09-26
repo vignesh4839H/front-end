@@ -1,0 +1,94 @@
+body{
+    background-image: url("https://preview.colorlib.com/theme/alime/img/bg-img/1.jpg.webp");
+    background-size:cover ;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    color:#ffad98;
+    font-size: 100px;
+    margin:10px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400px;
+}
+h2{
+    color:#FFDD9D;
+    font-size: 100px;
+    margin:10px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400px;
+}
+
+p{
+    color: #ffffff;
+    font-size: 20px;
+    padding-left: 76px;
+}
+a{
+  
+    color: #ffffff;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 20px;
+}
+#navagation{
+    background-color: rgba(0,0,0,0.5);
+    z-index: -1;
+    display: flex;
+    justify-content: space-between;
+ padding: 24px 0px 24px 0px;
+}
+img{
+    padding-left: 100px;
+}
+.bars{
+    color: #ffffff;
+    display: flex;
+    justify-content: end;
+    gap: 30%;
+    cursor: pointer;
+    margin-right: 20%;
+    gap: 37%;
+}
+.logo{
+    padding: 0%;
+    margin: 0%;
+}
+.hero-content{
+    padding-top: 173px;
+    padding-left: 61px;
+}
+button{
+      margin-top: 52px;
+    margin-left: 73px;
+    font-size: 16px;
+    border-radius: 38px;
+    padding: 15px;
+    background-color: transparent;
+
+    color: #ffffff;
+    width: 156px;
+    border-color: red;
+    cursor: pointer;
+}
+.box a{
+    margin-left: 96px;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+marquee{
+    height: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

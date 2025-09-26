@@ -1,0 +1,40 @@
+img{
+    height: 40px;
+    width: 40px;
+}
+#myntra{
+    display: flex;
+    height: 55px;
+}
+.items{
+    display: flex;
+    margin-left: 15px;
+    line-height: 8px;
+    width: 300px;
+   
+}
+ul{
+     margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+.search{
+    background-color:#F5F5F6;
+    padding-top: 10px;
+    width: 30%;
+    border-radius: 13px;
+}
+.input{
+    width: 74%;
+}
+.profile{
+    margin-left: 25%;
+    margin-top: 10px;
+}
+h6{
+    padding: 0px;
+    margin-top: 0px;
+}
